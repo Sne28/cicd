@@ -18,4 +18,4 @@ devices:
     host: "192.168.100.1"
     username: "admin"
     password: "cisco"
-     port: 22
+      port: 22
